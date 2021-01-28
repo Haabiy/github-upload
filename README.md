@@ -10,5 +10,7 @@ After reviewing the codes, you will know how to:
 - draw shapes on the picture ( Circles, Rectangles and Squares)
 - save it
 
-#After the program
-- Output: look at lena_output.png
+#Output
+
+![lena_output](https://user-images.githubusercontent.com/76060198/106169818-1591e580-6190-11eb-9a1c-accd6dc22d61.PNG)
+
