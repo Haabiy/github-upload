@@ -1,6 +1,6 @@
 # Application of object-oriented programming( C++)
 # Credit: prof. Hugues Digonnet (ECN)
-This project is from OOP class where we got asked to draw some shapes.
+This project is from OOP class where we got asked to draw some shapes on a picture.
 - Include all the files except those whose formats are PNGs
 
 #Before: look at lena.png
